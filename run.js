@@ -1,3 +1,3 @@
-var bands = require('./bands.js');
+var bandList = require('./bands.js');
 
-console.log(bands.bands.punk);
+console.log('A punk band is ' + bandList.bands.punk);
